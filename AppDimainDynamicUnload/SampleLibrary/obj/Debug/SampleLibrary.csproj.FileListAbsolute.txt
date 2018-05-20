@@ -1,0 +1,6 @@
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\SampleLibrary\bin\Debug\SampleLibrary.dll
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\SampleLibrary\bin\Debug\SampleLibrary.pdb
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.csprojResolveAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.dll
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\SampleLibrary\obj\Debug\SampleLibrary.pdb

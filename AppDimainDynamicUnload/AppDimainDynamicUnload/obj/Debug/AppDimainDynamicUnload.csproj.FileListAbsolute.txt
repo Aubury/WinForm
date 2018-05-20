@@ -1,0 +1,6 @@
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\AppDimainDynamicUnload\bin\Debug\AppDimainDynamicUnload.exe.config
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\AppDimainDynamicUnload\bin\Debug\AppDimainDynamicUnload.exe
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\AppDimainDynamicUnload\bin\Debug\AppDimainDynamicUnload.pdb
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\AppDimainDynamicUnload\obj\Debug\AppDimainDynamicUnload.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\AppDimainDynamicUnload\obj\Debug\AppDimainDynamicUnload.exe
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\AppDimainDynamicUnload\AppDimainDynamicUnload\obj\Debug\AppDimainDynamicUnload.pdb

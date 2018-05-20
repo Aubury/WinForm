@@ -1,0 +1,9 @@
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\UsingAppDomins\UsingAppDomins\obj\Debug\UsingAppDomins.csprojResolveAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\UsingAppDomins\UsingAppDomins\obj\Debug\UsingAppDomins.Properties.Resources.resources
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\UsingAppDomins\UsingAppDomins\obj\Debug\UsingAppDomins.csproj.GenerateResource.Cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\UsingAppDomins\UsingAppDomins\obj\Debug\UsingAppDomins.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\UsingAppDomins\UsingAppDomins\bin\Debug\UsingAppDomins.exe.config
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\UsingAppDomins\UsingAppDomins\bin\Debug\UsingAppDomins.exe
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\UsingAppDomins\UsingAppDomins\bin\Debug\UsingAppDomins.pdb
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\UsingAppDomins\UsingAppDomins\obj\Debug\UsingAppDomins.exe
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\UsingAppDomins\UsingAppDomins\obj\Debug\UsingAppDomins.pdb

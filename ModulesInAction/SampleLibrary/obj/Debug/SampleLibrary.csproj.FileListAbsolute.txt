@@ -1,0 +1,2 @@
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\ModulesInAction\SampleLibrary\obj\Debug\SampleLibrary.csprojResolveAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\WinForm\ModulesInAction\SampleLibrary\obj\Debug\SampleLibrary.csproj.CoreCompileInputs.cache
